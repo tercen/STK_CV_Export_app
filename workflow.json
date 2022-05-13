@@ -1,8 +1,8 @@
 {
   "kind": "Workflow",
-  "id": "019974b78a65232d86360e3f1e144604",
+  "id": "019974b78a65232d86360e3f1e51232a",
   "isDeleted": false,
-  "rev": "4-d288213bbcfd58bd2dd271dadb0fda3f",
+  "rev": "3-5cc19b6dc08750f5648f98c0eca7479c",
   "description": "",
   "name": "STK_CV_Export_app",
   "createdBy": "plinders",
@@ -13,11 +13,11 @@
   },
   "createdDate": {
     "kind": "Date",
-    "value": "2022-04-22T14:59:40.582777Z"
+    "value": "2022-04-26T07:51:48.212043Z"
   },
   "lastModifiedDate": {
     "kind": "Date",
-    "value": "2022-04-22T15:03:05.502680Z"
+    "value": "2022-05-13T10:18:49.934597Z"
   },
   "urls": [],
   "tags": [],
@@ -29,7 +29,7 @@
   "version": "",
   "authors": [],
   "isPublic": false,
-  "projectId": "ba516d78a1a52fff3d5ade7158f84cb6",
+  "projectId": "c845ceade32c4423bc616ff5ab22f158",
   "folderId": "",
   "links": [
     {
@@ -299,7 +299,7 @@
         },
         "operatorSettings": {
           "kind": "OperatorSettings",
-          "namespace": "ds0",
+          "namespace": "STKCVEXPORT",
           "operatorRef": {
             "kind": "OperatorRef",
             "name": "",
@@ -426,7 +426,7 @@
             }
           ],
           "rectangleSelections": [],
-          "nRows": 1212
+          "nRows": 1
         },
         "taskId": ""
       },
